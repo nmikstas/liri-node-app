@@ -264,7 +264,32 @@ function doMovie(par)
 //--------------------------- Text File Access ---------------------------
 function doRandom()
 {
+    fs.readFile("random.txt", "utf8", function(error, data)
+    {
+        //Report any errors.
+        if (error) 
+        {
+            return console.log(error);
+        }
+      
+        //Split the string into command and parameter.
+        let randomArr = data.split(",");
+        let command   = randomArr[0].trim();
+        let parameter = randomArr[1].trim();
 
+        //Check if the parameter is a single word.  If so, remove the quotes.
+        paramArray = parameter.split(" ");
+        if(paramArray.length === 1 && parameter.includes("\""))
+        {
+            parameter = parameter.split("\"")[1];
+        }
+
+        //Inform user of the command performed.
+        console.log("Command: " + command + ", Parameter: " + parameter);
+
+        //Process text file command.
+        runLIRI(command, parameter);
+    });
 }
 
 //------------------------------- Show Log -------------------------------
