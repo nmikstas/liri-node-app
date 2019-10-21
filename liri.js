@@ -184,42 +184,75 @@ function doSpotify(par)
     });
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //--------------------------------- OMDB ---------------------------------
 function doMovie(par)
 {
+    //Check if no movie was provided.
+    if(par === undefined)
+    {
+        par = "mr nobody"; //Default to "mr. Nobody".
+    }
+
     axios.get("http://www.omdbapi.com/?t=" + par + "&apikey=" + omdbKey)
     .then(function(response)
     {
         //Extract the data from the request.
-        var data = response.data;
+        let data = response.data;
 
-        //Display the movie information.
-        console.log("\nMovie Title: " + data.Title);
-        console.log("Release:" + data.Released);
-        console.log("IMDB Rating: " + data.Ratings[0].Value);
-        console.log("Rotten Tomatoes Rating: " + data.Ratings[1].Value);
-        console.log("Prduced in Countries: " + data.Country);
-        console.log("Movie Language: " + data.Language);
-        console.log("Plot: " + data.Plot);
-        console.log("Actors: " + data.Actors);
+        //Check if there is any movie result. If not, exit.
+        if(!data.Title)
+        {
+            console.log("No results found!");
+            return;
+        }
+
+        //Prepare a text string for the log file.
+        let logText = "********************* movie-this: " + par + " *********************\n";
+
+        //Assume the movie ratings don't exist.
+        let movieIMDB = "IMDB Rating: None";
+        let movieRT   = "Rotten Tomatoes Rating: None";
+
+        //Loop through the movie ratings to find the right ones.
+        //This loop does not assume they will always be in the same spot.
+        for(let i = 0; i < data.Ratings.length; i++)
+        {
+            if(data.Ratings[i].Source === "Internet Movie Database")
+            {
+                movieIMDB = "IMDB Rating: " + data.Ratings[i].Value;
+            }
+
+            if(data.Ratings[i].Source === "Rotten Tomatoes")
+            {
+                movieRT = "Rotten Tomatoes Rating: " + data.Ratings[i].Value;
+            }
+        }
+        
+        //Generate strings for user and log file.
+        let movieHead    = "---------- Movie Information ----------";
+        let movieTitle   = "Movie Title: " + data.Title;
+        let movieRelease = "Release:" + data.Released;
+        let movieCountry = "Produced in Countries: " + data.Country;
+        let movieLang    = "Movie Language: " + data.Language;
+        let moviePlot    = "Plot: " + data.Plot;
+        let movieActors  = "Actors: " + data.Actors;
+
+        //Generate string for the console and the log file.
+        let datStr = movieHead + "\n" + movieTitle + "\n" + movieIMDB + "\n" + movieRT + "\n" +
+            movieRelease + "\n" + movieCountry + "\n" + movieLang + "\n" + moviePlot + 
+            "\n" + movieActors  + "\n";
+            
+        console.log(datStr); //Write results to the display.
+        logText += datStr  + "\n"; //Format text string for log file append.
+
+        //Write the search results to the log file.
+        fs.appendFile("log.txt", logText, function(err)
+        {
+            if (err) //Log any errors.
+            {
+                console.log(err);
+            }
+        });
     })
     .catch(function(error)
     {    
