@@ -67,8 +67,7 @@ function doConcert(par)
 {
     if(par === undefined) //Check if band information is defined.
     {
-        console.log("Band information must be provided.");
-        return;
+        return console.log("Band information must be provided.");
     }
 
     //Query the Bands in Town database.
@@ -80,8 +79,7 @@ function doConcert(par)
         //Check if there are any venue results. If not, exit.
         if(!data[0].venue)
         {
-            console.log("No results found!");
-            return;
+            return console.log("No results found!");
         }
 
         //Prepare a text string for the log file.
@@ -202,8 +200,7 @@ function doMovie(par)
         //Check if there is any movie result. If not, exit.
         if(!data.Title)
         {
-            console.log("No results found!");
-            return;
+            return console.log("No results found!");
         }
 
         //Prepare a text string for the log file.

@@ -1,134 +1,365 @@
-********************* movie-this: alien *********************
----------- Movie Information ----------
-Movie Title: Alien
-IMDB Rating: 8.4/10
-Rotten Tomatoes Rating: 97%
-Release:22 Jun 1979
-Produced in Countries: UK, USA
-Movie Language: English
-Plot: After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.
-Actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
-
-********************* spotify-this-song: ice ice baby *********************
+********************* spotify-this-song: enter sandman *********************
 ---------- Song Information ----------
-Artist: Vanilla Ice
-Song Name: Ice Ice Baby
-Preview Link: https://p.scdn.co/mp3-preview/6545dbe31d7d19eb714c1ac49e04008706e05b4c?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Vanilla Ice Is Back! - Hip Hop Classics
+Artist: Metallica
+Song Name: Enter Sandman - Live with the SFSO
+Preview Link: https://p.scdn.co/mp3-preview/4cf9b664e824310276094079f4693d8fc7f1d5a2?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: S&M
 
 ---------- Song Information ----------
-Artist: Yung Bleu
-Song Name: Ice On My Baby
-Preview Link: https://p.scdn.co/mp3-preview/b57842ef368f5dbf8253041c509d0ae1d8b2f7a8?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Ice On My Baby
+Artist: Richard Cheese
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/6ff83c51b6e85122167b9457192c0cdc2b04a56c?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Aperitif For Destruction
 
 ---------- Song Information ----------
-Artist: Gucci Mane
-Song Name: Ice (feat. Gunna & Lil Baby)
-Preview Link: https://p.scdn.co/mp3-preview/d6d5380a7a5c06f787a11dc371a6fa199cc885ea?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Delusions of Grandeur
+Artist: Metallica
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Metallica
 
 ---------- Song Information ----------
-Artist: Yung Bleu
-Song Name: Ice On My Baby (feat. Kevin Gates) - Remix
-Preview Link: https://p.scdn.co/mp3-preview/1b4edc213ac6990af6eaac24ab60045912ad281c?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Ice On My Baby (feat. Kevin Gates) [Remix]
+Artist: Rockabye Baby!
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/5473cff3b9aa1748d5d3de41bc323ac7128cdb84?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Lullaby Renditions of Metallica
 
 ---------- Song Information ----------
-Artist: Super Simple Songs
-Song Name: The Ice Cream Song
-Preview Link: https://p.scdn.co/mp3-preview/748e021b1478aac4e6422035063f42e7600969b8?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Baby Shark & More Kids Songs
+Artist: Metallica
+Song Name: Enter Sandman (Live)
+Preview Link: https://p.scdn.co/mp3-preview/4293b87c32c97edb8b8ffc64ea44974e00964ee7?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Metallica Through The Never (Music from the Motion Picture)
 
 ---------- Song Information ----------
-Artist: Vanilla Ice
-Song Name: Ice Ice Baby
+Artist: Goddesses of Bagpipes
+Song Name: Shipping up to Boston / Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/f0becb1a03f689b85b59342b15bc13e66ef0a784?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Shipping up to Boston / Enter Sandman
+
+---------- Song Information ----------
+Artist: Apocalyptica
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/65dbb8fb6d42b38348b1731715f698bcc055e0d8?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Plays Metallica by Four Cellos (Remastered)
+
+---------- Song Information ----------
+Artist: Metallica
+Song Name: Enter Sandman (Live in Mexico City)
+Preview Link: https://p.scdn.co/mp3-preview/1b68daecc93dad2de0eda9e5db751f956291d9ea?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Live S**t: Binge & Purge
+
+---------- Song Information ----------
+Artist: Metallica
+Song Name: Enter Sandman (Live at The Masonic, San Francisco, CA - November 3rd, 2018)
+Preview Link: https://p.scdn.co/mp3-preview/5bd2485d5fd4d790678e551626724a84c615bc71?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Helping Hands...Live & Acoustic at The Masonic
+
+---------- Song Information ----------
+Artist: Liliac
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/d2fcdbfffee90a27f271a474ae825ba0103a957f?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Enter Sandman
+
+---------- Song Information ----------
+Artist: SHEL
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/df7ccfb95bbd49a0d6c677cca1e921c5f0418b2e?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Just Crazy Enough
+
+---------- Song Information ----------
+Artist: Scary Pockets
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/cbcbcbcc98b2f8af50da22cecb431524b15e9f5c?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Modern Art
+
+---------- Song Information ----------
+Artist: U2
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/39d4e54bbfb8d740d6fdccfff2a08e9bd6a8a311?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: The 25th Anniversary Rock & Roll Hall Of Fame Concerts
+
+---------- Song Information ----------
+Artist: Art vs Science
+Song Name: Enter Sandman (triple j Like A Version)
+Preview Link: https://p.scdn.co/mp3-preview/5eb0ad30ca0b49b7f26bc874c6fe0b3a35ca519d?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Enter Sandman (triple j Like A Version)
+
+---------- Song Information ----------
+Artist: Volbeat
+Song Name: Enter Sandman - Live from Telia Parken
 Preview Link: None
-Album: To The Extreme
+Album: Let's Boogie! (Live from Telia Parken)
 
 ---------- Song Information ----------
-Artist: tobi lou
-Song Name: Delete My # Baby (feat. Soundbwoy & Okay(K))
-Preview Link: https://p.scdn.co/mp3-preview/090b12abfd8eb75a6249e293a1e460e88f782abd?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Live on Ice
+Artist: Leo
+Song Name: Enter Sandman (Alternative Version)
+Preview Link: https://p.scdn.co/mp3-preview/ab498a9cb1b9c18716d341dcbded00955a49a56b?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Leo Metal Volume 17
 
 ---------- Song Information ----------
-Artist: Maxxeesdll Weiss
-Song Name: Tiny Dance
-Preview Link: https://p.scdn.co/mp3-preview/8c90e0b4938e371b1b2e811ee38c641a6bb2b771?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Ice Ice Baby
+Artist: The North 41
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/7681f68062320c8624129645c8b194d9b5553d1b?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: N41 Live, Vol. 1
 
 ---------- Song Information ----------
-Artist: Vanilla Ice
-Song Name: Ice Ice Baby - Radio Mix
+Artist: Twinkle Twinkle Little Rock Star
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/fa6951af91dca93e7488af5a522808cb64d182e8?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Lullaby Versions of Metallica
+
+---------- Song Information ----------
+Artist: Cookin' On 3 Burners
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/5fd0e20e426dd092773d16687d2d50415c91e99a?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Lab Experiments: Mixin', Vol. 1
+
+---------- Song Information ----------
+Artist: Pat Boone
+Song Name: Enter Sandman
 Preview Link: None
-Album: Drew's Famous Hits Of The 90's
+Album: In A Metal Mood: No More Mr. Nice Guy
+
+********************* spotify-this-song: enter sandman *********************
+---------- Song Information ----------
+Artist: Metallica
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Metallica
 
 ---------- Song Information ----------
-Artist: Maxxeesdll Weiss
-Song Name: Say My Name
-Preview Link: https://p.scdn.co/mp3-preview/244a7c94a41dd3834ed0d2b5f27641f0234d768e?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Ice Ice Baby
+Artist: Metallica
+Song Name: Enter Sandman - Live with the SFSO
+Preview Link: https://p.scdn.co/mp3-preview/4cf9b664e824310276094079f4693d8fc7f1d5a2?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: S&M
 
 ---------- Song Information ----------
-Artist: Maxxeesdll Weiss
-Song Name: Back at One
-Preview Link: https://p.scdn.co/mp3-preview/e4f559ab465577c69e148c0d4670cbc05433f776?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Ice Ice Baby
+Artist: Richard Cheese
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/6ff83c51b6e85122167b9457192c0cdc2b04a56c?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Aperitif For Destruction
 
 ---------- Song Information ----------
-Artist: Maxxeesdll Weiss
-Song Name: Iris
-Preview Link: https://p.scdn.co/mp3-preview/2e2cfacbd79f228f2b603c774d6c50ec2c26cabb?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Ice Ice Baby
+Artist: Metallica
+Song Name: Enter Sandman (Live)
+Preview Link: https://p.scdn.co/mp3-preview/4293b87c32c97edb8b8ffc64ea44974e00964ee7?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Metallica Through The Never (Music from the Motion Picture)
 
 ---------- Song Information ----------
-Artist: Vanilla Ice
-Song Name: Ice Ice Baby
+Artist: Metallica
+Song Name: Enter Sandman (Live in Mexico City)
+Preview Link: https://p.scdn.co/mp3-preview/1b68daecc93dad2de0eda9e5db751f956291d9ea?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Live S**t: Binge & Purge
+
+---------- Song Information ----------
+Artist: Goddesses of Bagpipes
+Song Name: Shipping up to Boston / Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/f0becb1a03f689b85b59342b15bc13e66ef0a784?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Shipping up to Boston / Enter Sandman
+
+---------- Song Information ----------
+Artist: Apocalyptica
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/65dbb8fb6d42b38348b1731715f698bcc055e0d8?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Plays Metallica by Four Cellos (Remastered)
+
+---------- Song Information ----------
+Artist: Rockabye Baby!
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/5473cff3b9aa1748d5d3de41bc323ac7128cdb84?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Lullaby Renditions of Metallica
+
+---------- Song Information ----------
+Artist: Liliac
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/d2fcdbfffee90a27f271a474ae825ba0103a957f?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Enter Sandman
+
+---------- Song Information ----------
+Artist: Scary Pockets
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/cbcbcbcc98b2f8af50da22cecb431524b15e9f5c?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Modern Art
+
+---------- Song Information ----------
+Artist: Metallica
+Song Name: Enter Sandman (Live at The Masonic, San Francisco, CA - November 3rd, 2018)
+Preview Link: https://p.scdn.co/mp3-preview/5bd2485d5fd4d790678e551626724a84c615bc71?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Helping Hands...Live & Acoustic at The Masonic
+
+---------- Song Information ----------
+Artist: SHEL
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/df7ccfb95bbd49a0d6c677cca1e921c5f0418b2e?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Just Crazy Enough
+
+---------- Song Information ----------
+Artist: U2
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/39d4e54bbfb8d740d6fdccfff2a08e9bd6a8a311?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: The 25th Anniversary Rock & Roll Hall Of Fame Concerts
+
+---------- Song Information ----------
+Artist: Art vs Science
+Song Name: Enter Sandman (triple j Like A Version)
+Preview Link: https://p.scdn.co/mp3-preview/5eb0ad30ca0b49b7f26bc874c6fe0b3a35ca519d?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Enter Sandman (triple j Like A Version)
+
+---------- Song Information ----------
+Artist: Twinkle Twinkle Little Rock Star
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/fa6951af91dca93e7488af5a522808cb64d182e8?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Lullaby Versions of Metallica
+
+---------- Song Information ----------
+Artist: Volbeat
+Song Name: Enter Sandman - Live from Telia Parken
 Preview Link: None
-Album: 90s Hip Hop
+Album: Let's Boogie! (Live from Telia Parken)
 
 ---------- Song Information ----------
-Artist: Maxxeesdll Weiss
-Song Name: FireWork
-Preview Link: https://p.scdn.co/mp3-preview/8d9684ee2428e796a13fffff7f12e91bde30964c?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Ice Ice Baby
+Artist: The North 41
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/7681f68062320c8624129645c8b194d9b5553d1b?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: N41 Live, Vol. 1
 
 ---------- Song Information ----------
-Artist: Marty Ray Project
-Song Name: Ice Ice Baby
-Preview Link: https://p.scdn.co/mp3-preview/f7423015a033a270924c2ab586c48c8f3559d101?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Expression Not Perfection
+Artist: Leo
+Song Name: Enter Sandman (Alternative Version)
+Preview Link: https://p.scdn.co/mp3-preview/ab498a9cb1b9c18716d341dcbded00955a49a56b?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Leo Metal Volume 17
 
 ---------- Song Information ----------
-Artist: Vanilla Ice
-Song Name: Ice Ice Baby
-Preview Link: https://p.scdn.co/mp3-preview/3297471656482bda146255299b759eafc3b37ca9?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Platinum Underground
+Artist: Cookin' On 3 Burners
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/5fd0e20e426dd092773d16687d2d50415c91e99a?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Lab Experiments: Mixin', Vol. 1
 
 ---------- Song Information ----------
-Artist: Glee Cast
-Song Name: Ice Ice Baby (Glee Cast Version)
-Preview Link: https://p.scdn.co/mp3-preview/c1798e6831d5800691308eb1d131a525dd26f859?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Ice Ice Baby (Glee Cast Version)
-
----------- Song Information ----------
-Artist: South Park Mexican
-Song Name: In Hillwood (feat. Baby Bash, Ice, & Carolyn Rodriguez)
-Preview Link: https://p.scdn.co/mp3-preview/09f18b097847d1f67e9842df2cecf2e09302f5af?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Last Chair Violinist
-
----------- Song Information ----------
-Artist: JGreen
-Song Name: Baby
-Preview Link: https://p.scdn.co/mp3-preview/fdc24514e38438dc77d067e3e60fdacf097e3464?cid=1cc1aaa7155e4089a9cf51831d30985b
-Album: Soul On Ice
-
----------- Song Information ----------
-Artist: Crazy Frog
-Song Name: Ice Ice Baby
+Artist: Pat Boone
+Song Name: Enter Sandman
 Preview Link: None
-Album: "More Crazy Hits" By The Crazy Frog
+Album: In A Metal Mood: No More Mr. Nice Guy
+
+********************* spotify-this-song: enter sandman *********************
+---------- Song Information ----------
+Artist: Metallica
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Metallica
+
+---------- Song Information ----------
+Artist: Metallica
+Song Name: Enter Sandman (Live)
+Preview Link: https://p.scdn.co/mp3-preview/4293b87c32c97edb8b8ffc64ea44974e00964ee7?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Metallica Through The Never (Music from the Motion Picture)
+
+---------- Song Information ----------
+Artist: Metallica
+Song Name: Enter Sandman - Live with the SFSO
+Preview Link: https://p.scdn.co/mp3-preview/4cf9b664e824310276094079f4693d8fc7f1d5a2?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: S&M
+
+---------- Song Information ----------
+Artist: Rockabye Baby!
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/5473cff3b9aa1748d5d3de41bc323ac7128cdb84?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Lullaby Renditions of Metallica
+
+---------- Song Information ----------
+Artist: Richard Cheese
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/6ff83c51b6e85122167b9457192c0cdc2b04a56c?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Aperitif For Destruction
+
+---------- Song Information ----------
+Artist: Metallica
+Song Name: Enter Sandman (Live in Mexico City)
+Preview Link: https://p.scdn.co/mp3-preview/1b68daecc93dad2de0eda9e5db751f956291d9ea?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Live S**t: Binge & Purge
+
+---------- Song Information ----------
+Artist: Goddesses of Bagpipes
+Song Name: Shipping up to Boston / Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/f0becb1a03f689b85b59342b15bc13e66ef0a784?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Shipping up to Boston / Enter Sandman
+
+---------- Song Information ----------
+Artist: Apocalyptica
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/65dbb8fb6d42b38348b1731715f698bcc055e0d8?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Plays Metallica by Four Cellos (Remastered)
+
+---------- Song Information ----------
+Artist: Scary Pockets
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/cbcbcbcc98b2f8af50da22cecb431524b15e9f5c?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Modern Art
+
+---------- Song Information ----------
+Artist: Liliac
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/d2fcdbfffee90a27f271a474ae825ba0103a957f?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Enter Sandman
+
+---------- Song Information ----------
+Artist: SHEL
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/df7ccfb95bbd49a0d6c677cca1e921c5f0418b2e?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Just Crazy Enough
+
+---------- Song Information ----------
+Artist: U2
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/39d4e54bbfb8d740d6fdccfff2a08e9bd6a8a311?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: The 25th Anniversary Rock & Roll Hall Of Fame Concerts
+
+---------- Song Information ----------
+Artist: Metallica
+Song Name: Enter Sandman (Live at The Masonic, San Francisco, CA - November 3rd, 2018)
+Preview Link: https://p.scdn.co/mp3-preview/5bd2485d5fd4d790678e551626724a84c615bc71?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Helping Hands...Live & Acoustic at The Masonic
+
+---------- Song Information ----------
+Artist: Art vs Science
+Song Name: Enter Sandman (triple j Like A Version)
+Preview Link: https://p.scdn.co/mp3-preview/5eb0ad30ca0b49b7f26bc874c6fe0b3a35ca519d?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Enter Sandman (triple j Like A Version)
+
+---------- Song Information ----------
+Artist: Volbeat
+Song Name: Enter Sandman - Live from Telia Parken
+Preview Link: None
+Album: Let's Boogie! (Live from Telia Parken)
+
+---------- Song Information ----------
+Artist: Twinkle Twinkle Little Rock Star
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/fa6951af91dca93e7488af5a522808cb64d182e8?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Lullaby Versions of Metallica
+
+---------- Song Information ----------
+Artist: The North 41
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/7681f68062320c8624129645c8b194d9b5553d1b?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: N41 Live, Vol. 1
+
+---------- Song Information ----------
+Artist: Leo
+Song Name: Enter Sandman (Alternative Version)
+Preview Link: https://p.scdn.co/mp3-preview/ab498a9cb1b9c18716d341dcbded00955a49a56b?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Leo Metal Volume 17
+
+---------- Song Information ----------
+Artist: Pat Boone
+Song Name: Enter Sandman
+Preview Link: None
+Album: In A Metal Mood: No More Mr. Nice Guy
+
+---------- Song Information ----------
+Artist: Cookin' On 3 Burners
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/5fd0e20e426dd092773d16687d2d50415c91e99a?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Lab Experiments: Mixin', Vol. 1
 
 ********************* concert-this: metallica *********************
 ---------- Venue Information ----------
@@ -138,7 +369,7 @@ Event Date: 11/02/2019
 
 ---------- Venue Information ----------
 Venue Name: Estadio Nacional
-Venue Location: Estadio Nacional , Chile
+Venue Location: Santiago , Chile
 Event Date: 04/15/2020
 
 ---------- Venue Information ----------
@@ -205,4 +436,366 @@ Event Date: 10/09/2020
 Venue Name: Discovery Park
 Venue Location: Sacramento CA, United States
 Event Date: 10/11/2020
+
+********************* concert-this: metallica *********************
+---------- Venue Information ----------
+Venue Name: Mt Smart Stadium
+Venue Location: Auckland , New Zealand
+Event Date: 11/02/2019
+
+---------- Venue Information ----------
+Venue Name: Estadio Nacional
+Venue Location: Santiago , Chile
+Event Date: 04/15/2020
+
+---------- Venue Information ----------
+Venue Name: Argentine Polo Association
+Venue Location: Bwp , Argentina
+Event Date: 04/18/2020
+
+---------- Venue Information ----------
+Venue Name: Arena do Grêmio
+Venue Location: Porto Alegre , Brazil
+Event Date: 04/21/2020
+
+---------- Venue Information ----------
+Venue Name: Arena do Grêmio
+Venue Location: Porto Alegre , Brazil
+Event Date: 04/23/2020
+
+---------- Venue Information ----------
+Venue Name: Casa da Fazenda Morumbi
+Venue Location: São Paulo , Brazil
+Event Date: 04/25/2020
+
+---------- Venue Information ----------
+Venue Name: Mineirão
+Venue Location: Belo Horizonte , Brazil
+Event Date: 04/27/2020
+
+---------- Venue Information ----------
+Venue Name: Charlotte Motor Speedway
+Venue Location: Concord NC, United States
+Event Date: 05/01/2020
+
+---------- Venue Information ----------
+Venue Name: Charlotte Motor Speedway
+Venue Location: Concord NC, United States
+Event Date: 05/03/2020
+
+---------- Venue Information ----------
+Venue Name: Daytona International Speedway
+Venue Location: Daytona Beach FL, United States
+Event Date: 05/08/2020
+
+---------- Venue Information ----------
+Venue Name: Daytona International Speedway
+Venue Location: Daytona Beach FL, United States
+Event Date: 05/10/2020
+
+---------- Venue Information ----------
+Venue Name: MAPFRE Stadium
+Venue Location: Columbus OH, United States
+Event Date: 05/15/2020
+
+---------- Venue Information ----------
+Venue Name: Kentucky Exposition Center
+Venue Location: Louisville KY, United States
+Event Date: 09/18/2020
+
+---------- Venue Information ----------
+Venue Name: Discovery Park
+Venue Location: Sacramento CA, United States
+Event Date: 10/09/2020
+
+---------- Venue Information ----------
+Venue Name: Discovery Park
+Venue Location: Sacramento CA, United States
+Event Date: 10/11/2020
+
+********************* movie-this: bladerunner *********************
+---------- Movie Information ----------
+Movie Title: Rockwell Tools Bladerunner X2
+IMDB Rating: None
+Rotten Tomatoes Rating: None
+Release:01 Jan 2015
+Produced in Countries: USA
+Movie Language: English
+Plot: N/A
+Actors: N/A
+
+********************* movie-this: blade runner *********************
+---------- Movie Information ----------
+Movie Title: Blade Runner
+IMDB Rating: 8.1/10
+Rotten Tomatoes Rating: 89%
+Release:25 Jun 1982
+Produced in Countries: USA
+Movie Language: English, German, Cantonese, Japanese, Hungarian, Arabic
+Plot: A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.
+Actors: Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
+
+********************* movie-this: blade runner *********************
+---------- Movie Information ----------
+Movie Title: Blade Runner
+IMDB Rating: 8.1/10
+Rotten Tomatoes Rating: 89%
+Release:25 Jun 1982
+Produced in Countries: USA
+Movie Language: English, German, Cantonese, Japanese, Hungarian, Arabic
+Plot: A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.
+Actors: Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
+
+********************* movie-this: alien *********************
+---------- Movie Information ----------
+Movie Title: Alien
+IMDB Rating: 8.4/10
+Rotten Tomatoes Rating: 97%
+Release:22 Jun 1979
+Produced in Countries: UK, USA
+Movie Language: English
+Plot: After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.
+Actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
+
+********************* spotify-this-song: "I Want it That Way" *********************
+---------- Song Information ----------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: The Hits--Chapter One
+
+---------- Song Information ----------
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Covers Part IV
+
+---------- Song Information ----------
+Artist: Nineties Legends
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Musicbox
+
+---------- Song Information ----------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Millennium
+
+---------- Song Information ----------
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: I Want It That Way
+
+---------- Song Information ----------
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Beautiful Dreams
+
+---------- Song Information ----------
+Artist: Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Preview Link: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: I Want It That Way (Reimagined)
+
+---------- Song Information ----------
+Artist: Jess and Gabriel
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Under the Covers, Vol. 3
+
+---------- Song Information ----------
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Poodle Hat
+
+---------- Song Information ----------
+Artist: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: None
+Album: Punk Goes Pop
+
+---------- Song Information ----------
+Artist: Steel Panther
+Song Name: I Want It That Way
+Preview Link: None
+Album: I Want It That Way
+
+---------- Song Information ----------
+Artist: Scary Pockets
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Nu Funk
+
+---------- Song Information ----------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: NKOTBSB
+
+---------- Song Information ----------
+Artist: Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+---------- Song Information ----------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: 90 Sweet 90s Hits!
+
+---------- Song Information ----------
+Artist: Boyce Avenue
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Cover Sessions, Vol. 2
+
+---------- Song Information ----------
+Artist: Piano Project
+Song Name: I Want it That Way
+Preview Link: https://p.scdn.co/mp3-preview/42336ba0f32ffbd534b942b024019f27fba27882?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Piano Covers of Hits from 1999
+
+---------- Song Information ----------
+Artist: Manuel Costa
+Song Name: I Want It That Way
+Preview Link: None
+Album: I Want It That Way
+
+---------- Song Information ----------
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: The Essential "Weird Al" Yankovic
+
+---------- Song Information ----------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Selfies on Kodachrome
+
+********************* spotify-this-song: "I Want it That Way" *********************
+---------- Song Information ----------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: The Hits--Chapter One
+
+---------- Song Information ----------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Millennium
+
+---------- Song Information ----------
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Covers Part IV
+
+---------- Song Information ----------
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: I Want It That Way
+
+---------- Song Information ----------
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Poodle Hat
+
+---------- Song Information ----------
+Artist: Nineties Legends
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Musicbox
+
+---------- Song Information ----------
+Artist: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: None
+Album: Punk Goes Pop
+
+---------- Song Information ----------
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Beautiful Dreams
+
+---------- Song Information ----------
+Artist: Jess and Gabriel
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Under the Covers, Vol. 3
+
+---------- Song Information ----------
+Artist: Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Preview Link: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: I Want It That Way (Reimagined)
+
+---------- Song Information ----------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: 90 Sweet 90s Hits!
+
+---------- Song Information ----------
+Artist: Steel Panther
+Song Name: I Want It That Way
+Preview Link: None
+Album: I Want It That Way
+
+---------- Song Information ----------
+Artist: Scary Pockets
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Nu Funk
+
+---------- Song Information ----------
+Artist: Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+---------- Song Information ----------
+Artist: Boyce Avenue
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Cover Sessions, Vol. 2
+
+---------- Song Information ----------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: NKOTBSB
+
+---------- Song Information ----------
+Artist: Piano Project
+Song Name: I Want it That Way
+Preview Link: https://p.scdn.co/mp3-preview/42336ba0f32ffbd534b942b024019f27fba27882?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Piano Covers of Hits from 1999
+
+---------- Song Information ----------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: Selfies on Kodachrome
+
+---------- Song Information ----------
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=1cc1aaa7155e4089a9cf51831d30985b
+Album: The Essential "Weird Al" Yankovic
+
+---------- Song Information ----------
+Artist: Manuel Costa
+Song Name: I Want It That Way
+Preview Link: None
+Album: I Want It That Way
 
